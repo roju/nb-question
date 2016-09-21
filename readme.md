@@ -1,6 +1,8 @@
 #Question
 1. What is your favorite color?
-Green
+- Ross: Green
+- Carlos: Blue
 
 2. What is your shoe size?
-13
+- Ross: 13
+- Carlos: 10
